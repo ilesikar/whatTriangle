@@ -1,0 +1,9 @@
+#adultPage, #minorPage {
+  display: none;
+}
+
+.container {
+  border: solid gray 4px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
