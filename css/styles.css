@@ -1,4 +1,4 @@
-#adultPage, #minorPage {
+#tiffany, #cassie, #jose, #alex, #na, #test {
   display: none;
 }
 
@@ -6,4 +6,8 @@
   border: solid gray 4px;
   margin-top: 10px;
   margin-bottom: 10px;
+}
+
+img {
+  width="100%"
 }
